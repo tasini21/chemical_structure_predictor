@@ -1,0 +1,509 @@
+[I 2026-10-23 15:26:41.945 ServerApp] Extension package jupyterlab_jupytext took 1.1416s to import
+[I 2026-10-23 15:26:41.952 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-10-23 15:26:41.954 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-10-23 15:26:41.957 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-10-23 15:26:41.958 ServerApp] jupyterlab_jupytext | extension was successfully linked.
+[I 2026-10-23 15:26:41.960 ServerApp] notebook | extension was successfully linked.
+[I 2026-10-23 15:26:42.799 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-10-23 15:26:42.839 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-10-23 15:26:42.841 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-10-23 15:26:42.841 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-10-23 15:26:42.863 LabApp] JupyterLab extension loaded from /home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/jupyterlab
+[I 2026-10-23 15:26:42.864 LabApp] JupyterLab application directory is /home/tasin/anaconda3/envs/ai/share/jupyter/lab
+[I 2026-10-23 15:26:42.864 LabApp] Extension Manager is 'pypi'.
+[I 2026-10-23 15:26:43.004 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-10-23 15:26:43.004 ServerApp] [Jupytext Server Extension] Deriving an AsyncTextFileContentsManager from AsyncLargeFileManager
+[I 2026-10-23 15:26:43.004 ServerApp] jupyterlab_jupytext | extension was successfully loaded.
+[I 2026-10-23 15:26:43.007 ServerApp] notebook | extension was successfully loaded.
+[I 2026-10-23 15:26:43.007 ServerApp] Serving notebooks from local directory: /home/tasin/Downloads/chemistry
+[I 2026-10-23 15:26:43.007 ServerApp] Jupyter Server 2.17.0 is running at:
+[I 2026-10-23 15:26:43.007 ServerApp] http://localhost:8888/tree?token=f12588ef6f736f1996ad5421197332b997d00a2770fc7c9b
+[I 2026-10-23 15:26:43.007 ServerApp]     http://127.0.0.1:8888/tree?token=f12588ef6f736f1996ad5421197332b997d00a2770fc7c9b
+[I 2026-10-23 15:26:43.007 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-10-23 15:26:43.048 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:/home/tasin/.local/share/jupyter/runtime/jpserver-18718-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/tree?token=f12588ef6f736f1996ad5421197332b997d00a2770fc7c9b
+        http://127.0.0.1:8888/tree?token=f12588ef6f736f1996ad5421197332b997d00a2770fc7c9b
+[I 2026-10-23 15:26:43.081 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2026-10-23 15:26:58.963 ServerApp] Notebook casmi-denovo-tutorial-notebook.ipynb is not trusted
+[W 2026-10-23 15:26:59.596 ServerApp] Notebook casmi-denovo-tutorial-notebook.ipynb is not trusted
+[I 2026-10-23 15:27:00.042 ServerApp] Kernel started: 214f9fc3-22a2-455c-9ed5-cbb6620be570
+[I 2026-10-23 15:27:00.993 ServerApp] Adapting from protocol version 5.3 (kernel 214f9fc3-22a2-455c-9ed5-cbb6620be570) to 5.4 (client).
+[I 2026-10-23 15:27:00.994 ServerApp] Connecting to kernel 214f9fc3-22a2-455c-9ed5-cbb6620be570.
+[W 2026-10-23 15:27:00.995 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2026-10-23 15:27:01.005 ServerApp] Adapting from protocol version 5.3 (kernel 214f9fc3-22a2-455c-9ed5-cbb6620be570) to 5.4 (client).
+[I 2026-10-23 15:27:01.005 ServerApp] Connecting to kernel 214f9fc3-22a2-455c-9ed5-cbb6620be570.
+[I 2026-10-23 15:27:01.016 ServerApp] Adapting from protocol version 5.3 (kernel 214f9fc3-22a2-455c-9ed5-cbb6620be570) to 5.4 (client).
+[I 2026-10-23 15:27:01.017 ServerApp] Connecting to kernel 214f9fc3-22a2-455c-9ed5-cbb6620be570.
+[I 2026-10-23 15:27:06.556 ServerApp] Adapting from protocol version 5.3 (kernel 214f9fc3-22a2-455c-9ed5-cbb6620be570) to 5.4 (client).
+[I 2026-10-23 15:27:06.557 ServerApp] Connecting to kernel 214f9fc3-22a2-455c-9ed5-cbb6620be570.
+[I 2026-10-23 15:28:59.645 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 15:28:59.645 ServerApp] Saving casmi-denovo-tutorial-notebook.ipynb
+[W 2026-10-23 15:28:59.646 ServerApp] Notebook casmi-denovo-tutorial-notebook.ipynb is not trusted
+
+
+
+[I 2026-10-23 15:30:59.698 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 15:30:59.698 ServerApp] Saving casmi-denovo-tutorial-notebook.ipynb
+[W 2026-10-23 15:30:59.699 ServerApp] Notebook casmi-denovo-tutorial-notebook.ipynb is not trusted
+[I 2026-10-23 15:31:35.651 ServerApp] Kernel started: 85281549-7b5a-4eab-9b8b-f1e7143d9331
+[I 2026-10-23 15:31:35.652 ServerApp] Kernel shutdown: 214f9fc3-22a2-455c-9ed5-cbb6620be570
+[I 2026-10-23 15:31:38.513 ServerApp] Kernel restarted: 214f9fc3-22a2-455c-9ed5-cbb6620be570
+[I 2026-10-23 15:31:38.515 ServerApp] Starting buffering for 214f9fc3-22a2-455c-9ed5-cbb6620be570:daca64c2-cb7b-4dcf-8f42-1561dfbf15b2
+[I 2026-10-23 15:31:38.518 ServerApp] Adapting from protocol version 5.3 (kernel 214f9fc3-22a2-455c-9ed5-cbb6620be570) to 5.4 (client).
+[I 2026-10-23 15:31:38.518 ServerApp] Connecting to kernel 214f9fc3-22a2-455c-9ed5-cbb6620be570.
+[I 2026-10-23 15:31:38.518 ServerApp] Restoring connection for 214f9fc3-22a2-455c-9ed5-cbb6620be570:daca64c2-cb7b-4dcf-8f42-1561dfbf15b2
+[I 2026-10-23 15:31:40.728 ServerApp] Kernel restarted: 214f9fc3-22a2-455c-9ed5-cbb6620be570
+[I 2026-10-23 15:31:40.730 ServerApp] Starting buffering for 214f9fc3-22a2-455c-9ed5-cbb6620be570:daca64c2-cb7b-4dcf-8f42-1561dfbf15b2
+[I 2026-10-23 15:31:40.732 ServerApp] Adapting from protocol version 5.3 (kernel 214f9fc3-22a2-455c-9ed5-cbb6620be570) to 5.4 (client).
+[I 2026-10-23 15:31:40.733 ServerApp] Connecting to kernel 214f9fc3-22a2-455c-9ed5-cbb6620be570.
+[I 2026-10-23 15:31:40.733 ServerApp] Restoring connection for 214f9fc3-22a2-455c-9ed5-cbb6620be570:daca64c2-cb7b-4dcf-8f42-1561dfbf15b2
+[I 2026-10-23 15:31:41.213 ServerApp] Adapting from protocol version 5.3 (kernel 85281549-7b5a-4eab-9b8b-f1e7143d9331) to 5.4 (client).
+[I 2026-10-23 15:31:41.214 ServerApp] Connecting to kernel 85281549-7b5a-4eab-9b8b-f1e7143d9331.
+[I 2026-10-23 15:31:41.225 ServerApp] Adapting from protocol version 5.3 (kernel 85281549-7b5a-4eab-9b8b-f1e7143d9331) to 5.4 (client).
+[I 2026-10-23 15:31:41.226 ServerApp] Connecting to kernel 85281549-7b5a-4eab-9b8b-f1e7143d9331.
+[I 2026-10-23 15:31:41.750 ServerApp] Starting buffering for 214f9fc3-22a2-455c-9ed5-cbb6620be570:daca64c2-cb7b-4dcf-8f42-1561dfbf15b2
+[W 2026-10-23 15:31:45.655 ServerApp] Wait for final termination of kernel timed out - continuing...
+[E 2026-10-23 15:31:45.665 ServerApp] invalid state
+    Traceback (most recent call last):
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/jupyter_client/manager.py", line 92, in wrapper
+        self._ready.set_result(None)
+        ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+    asyncio.exceptions.InvalidStateError: invalid state
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/jupyter_client/multikernelmanager.py", line 243, in _remove_kernel_when_ready
+        await kernel_awaitable
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/jupyter_core/utils/__init__.py", line 214, in ensure_async
+        result = await obj
+                 ^^^^^^^^^
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/jupyter_server/services/kernels/kernelmanager.py", line 838, in wrapped_method
+        raise err
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/jupyter_server/services/kernels/kernelmanager.py", line 802, in wrapped_method
+        out = await method(self, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/jupyter_server/services/kernels/kernelmanager.py", line 914, in shutdown_kernel
+        return await super().shutdown_kernel(*args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/jupyter_client/manager.py", line 95, in wrapper
+        self._ready.set_exception(e)
+        ~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+    asyncio.exceptions.InvalidStateError: invalid state
+[I 2026-10-23 15:32:11.791 ServerApp] Kernel restarted: 85281549-7b5a-4eab-9b8b-f1e7143d9331
+[I 2026-10-23 15:32:11.793 ServerApp] Starting buffering for 85281549-7b5a-4eab-9b8b-f1e7143d9331:daca64c2-cb7b-4dcf-8f42-1561dfbf15b2
+[I 2026-10-23 15:32:11.796 ServerApp] Adapting from protocol version 5.3 (kernel 85281549-7b5a-4eab-9b8b-f1e7143d9331) to 5.4 (client).
+[I 2026-10-23 15:32:11.796 ServerApp] Connecting to kernel 85281549-7b5a-4eab-9b8b-f1e7143d9331.
+[I 2026-10-23 15:32:11.796 ServerApp] Restoring connection for 85281549-7b5a-4eab-9b8b-f1e7143d9331:daca64c2-cb7b-4dcf-8f42-1561dfbf15b2
+
+
+
+[I 2026-10-23 15:32:59.893 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 15:32:59.894 ServerApp] Saving casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 15:53:39.028 ServerApp] Adapting from protocol version 5.3 (kernel 85281549-7b5a-4eab-9b8b-f1e7143d9331) to 5.4 (client).
+[I 2026-10-23 15:53:39.029 ServerApp] Connecting to kernel 85281549-7b5a-4eab-9b8b-f1e7143d9331.
+[I 2026-10-23 15:53:50.560 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 15:53:50.560 ServerApp] Saving casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 15:55:51.558 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 15:55:51.558 ServerApp] Saving casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 15:57:52.571 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 15:57:52.572 ServerApp] Saving casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:01:12.054 ServerApp] Kernel restarted: 85281549-7b5a-4eab-9b8b-f1e7143d9331
+[I 2026-10-23 16:01:12.056 ServerApp] Starting buffering for 85281549-7b5a-4eab-9b8b-f1e7143d9331:daca64c2-cb7b-4dcf-8f42-1561dfbf15b2
+[I 2026-10-23 16:01:12.058 ServerApp] Adapting from protocol version 5.3 (kernel 85281549-7b5a-4eab-9b8b-f1e7143d9331) to 5.4 (client).
+[I 2026-10-23 16:01:12.058 ServerApp] Connecting to kernel 85281549-7b5a-4eab-9b8b-f1e7143d9331.
+[I 2026-10-23 16:01:12.058 ServerApp] Restoring connection for 85281549-7b5a-4eab-9b8b-f1e7143d9331:daca64c2-cb7b-4dcf-8f42-1561dfbf15b2
+Traceback (most recent call last):
+  File "/home/tasin/anaconda3/envs/ai/lib/python3.14/runpy.py", line 198, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+                     "__main__", mod_spec)
+  File "/home/tasin/anaconda3/envs/ai/lib/python3.14/runpy.py", line 88, in _run_code
+    exec(code, run_globals)
+    ~~~~^^^^^^^^^^^^^^^^^^^
+  File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/ipykernel_launcher.py", line 16, in <module>
+    from ipykernel import kernelapp as app
+  File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/ipykernel/kernelapp.py", line 54, in <module>
+    from .ipkernel import IPythonKernel
+  File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/ipykernel/ipkernel.py", line 24, in <module>
+    from .comm.comm import BaseComm
+  File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/ipykernel/comm/__init__.py", line 3, in <module>
+    from .comm import Comm
+  File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/ipykernel/comm/comm.py", line 15, in <module>
+    from ipykernel.kernelbase import Kernel
+  File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/ipykernel/kernelbase.py", line 38, in <module>
+    import psutil
+  File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/psutil/__init__.py", line 38, in <module>
+    from . import _common
+  File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/psutil/_common.py", line 132, in <module>
+    class BatteryTime(enum.IntEnum):
+        POWER_TIME_UNKNOWN = -1
+        POWER_TIME_UNLIMITED = -2
+  File "/home/tasin/anaconda3/envs/ai/lib/python3.14/enum.py", line 549, in __new__
+    enum_class = super().__new__(metacls, cls, bases, classdict, **kwds)
+  File "/home/tasin/anaconda3/envs/ai/lib/python3.14/enum.py", line 243, in __set_name__
+    delattr(enum_class, member_name)
+    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tasin/anaconda3/envs/ai/lib/python3.14/enum.py", line 745, in __delattr__
+    def __delattr__(cls, attr):
+    
+KeyboardInterrupt
+Error calling __set_name__ on '_proto_member' instance 'POWER_TIME_UNKNOWN' in 'BatteryTime'
+[I 2026-10-23 16:01:12.402 ServerApp] Kernel restarted: 85281549-7b5a-4eab-9b8b-f1e7143d9331
+[I 2026-10-23 16:01:12.404 ServerApp] Starting buffering for 85281549-7b5a-4eab-9b8b-f1e7143d9331:daca64c2-cb7b-4dcf-8f42-1561dfbf15b2
+[I 2026-10-23 16:01:12.405 ServerApp] Adapting from protocol version 5.3 (kernel 85281549-7b5a-4eab-9b8b-f1e7143d9331) to 5.4 (client).
+[I 2026-10-23 16:01:12.405 ServerApp] Connecting to kernel 85281549-7b5a-4eab-9b8b-f1e7143d9331.
+[I 2026-10-23 16:01:12.406 ServerApp] Restoring connection for 85281549-7b5a-4eab-9b8b-f1e7143d9331:daca64c2-cb7b-4dcf-8f42-1561dfbf15b2
+
+
+
+[I 2026-10-23 16:01:53.558 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:01:53.559 ServerApp] Saving casmi-denovo-tutorial-notebook.ipynb
+[E 2026-10-23 16:02:03.799 ServerApp] Uncaught exception POST /api/kernels/85281549-7b5a-4eab-9b8b-f1e7143d9331/interrupt?1792767723798 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='POST', uri='/api/kernels/85281549-7b5a-4eab-9b8b-f1e7143d9331/interrupt?1792767723798', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/tornado/web.py", line 1859, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/jupyter_server/services/kernels/handlers.py", line 97, in post
+        await ensure_async(km.interrupt_kernel(kernel_id))  # type:ignore[func-returns-value]
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/jupyter_client/multikernelmanager.py", line 394, in interrupt_kernel
+        raise RuntimeError(msg)
+    RuntimeError: Kernel is in a pending state. Cannot interrupt.
+[W 2026-10-23 16:02:03.848 ServerApp] wrote error: 'Unhandled error'
+    Traceback (most recent call last):
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/tornado/web.py", line 1859, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/jupyter_server/services/kernels/handlers.py", line 97, in post
+        await ensure_async(km.interrupt_kernel(kernel_id))  # type:ignore[func-returns-value]
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/jupyter_client/multikernelmanager.py", line 394, in interrupt_kernel
+        raise RuntimeError(msg)
+    RuntimeError: Kernel is in a pending state. Cannot interrupt.
+[E 2026-10-23 16:02:03.849 ServerApp] {
+      "Host": "localhost:8888",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8888/notebooks/casmi-denovo-tutorial-notebook.ipynb",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    }
+[E 2026-10-23 16:02:03.849 ServerApp] 500 POST /api/kernels/85281549-7b5a-4eab-9b8b-f1e7143d9331/interrupt?1792767723798 (1f1093af92ae4458ab3a5732140e3bbb@127.0.0.1) 49.86ms referer=http://localhost:8888/notebooks/casmi-denovo-tutorial-notebook.ipynb
+[E 2026-10-23 16:02:05.112 ServerApp] Uncaught exception POST /api/kernels/85281549-7b5a-4eab-9b8b-f1e7143d9331/interrupt?1792767725110 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='POST', uri='/api/kernels/85281549-7b5a-4eab-9b8b-f1e7143d9331/interrupt?1792767725110', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/tornado/web.py", line 1859, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/jupyter_server/services/kernels/handlers.py", line 97, in post
+        await ensure_async(km.interrupt_kernel(kernel_id))  # type:ignore[func-returns-value]
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/jupyter_client/multikernelmanager.py", line 394, in interrupt_kernel
+        raise RuntimeError(msg)
+    RuntimeError: Kernel is in a pending state. Cannot interrupt.
+[W 2026-10-23 16:02:05.112 ServerApp] wrote error: 'Unhandled error'
+    Traceback (most recent call last):
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/tornado/web.py", line 1859, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/jupyter_server/services/kernels/handlers.py", line 97, in post
+        await ensure_async(km.interrupt_kernel(kernel_id))  # type:ignore[func-returns-value]
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+      File "/home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/jupyter_client/multikernelmanager.py", line 394, in interrupt_kernel
+        raise RuntimeError(msg)
+    RuntimeError: Kernel is in a pending state. Cannot interrupt.
+[E 2026-10-23 16:02:05.113 ServerApp] {
+      "Host": "localhost:8888",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8888/notebooks/casmi-denovo-tutorial-notebook.ipynb",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    }
+[E 2026-10-23 16:02:05.113 ServerApp] 500 POST /api/kernels/85281549-7b5a-4eab-9b8b-f1e7143d9331/interrupt?1792767725110 (1f1093af92ae4458ab3a5732140e3bbb@127.0.0.1) 1.50ms referer=http://localhost:8888/notebooks/casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:02:05.369 ServerApp] Kernel restarted: 85281549-7b5a-4eab-9b8b-f1e7143d9331
+[I 2026-10-23 16:02:05.371 ServerApp] Starting buffering for 85281549-7b5a-4eab-9b8b-f1e7143d9331:daca64c2-cb7b-4dcf-8f42-1561dfbf15b2
+[I 2026-10-23 16:02:05.372 ServerApp] Adapting from protocol version 5.3 (kernel 85281549-7b5a-4eab-9b8b-f1e7143d9331) to 5.4 (client).
+[I 2026-10-23 16:02:05.373 ServerApp] Connecting to kernel 85281549-7b5a-4eab-9b8b-f1e7143d9331.
+[I 2026-10-23 16:02:05.373 ServerApp] Restoring connection for 85281549-7b5a-4eab-9b8b-f1e7143d9331:daca64c2-cb7b-4dcf-8f42-1561dfbf15b2
+[I 2026-10-23 16:02:08.042 ServerApp] Kernel restarted: 85281549-7b5a-4eab-9b8b-f1e7143d9331
+[I 2026-10-23 16:02:08.044 ServerApp] Starting buffering for 85281549-7b5a-4eab-9b8b-f1e7143d9331:daca64c2-cb7b-4dcf-8f42-1561dfbf15b2
+[I 2026-10-23 16:02:08.045 ServerApp] Adapting from protocol version 5.3 (kernel 85281549-7b5a-4eab-9b8b-f1e7143d9331) to 5.4 (client).
+[I 2026-10-23 16:02:08.046 ServerApp] Connecting to kernel 85281549-7b5a-4eab-9b8b-f1e7143d9331.
+[I 2026-10-23 16:02:08.046 ServerApp] Restoring connection for 85281549-7b5a-4eab-9b8b-f1e7143d9331:daca64c2-cb7b-4dcf-8f42-1561dfbf15b2
+
+
+
+[I 2026-10-23 16:03:53.712 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:03:53.713 ServerApp] Saving casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:07:01.202 ServerApp] Starting buffering for 85281549-7b5a-4eab-9b8b-f1e7143d9331:daca64c2-cb7b-4dcf-8f42-1561dfbf15b2
+[I 2026-10-23 16:16:17.428 ServerApp] Extension package jupyterlab_jupytext took 0.9655s to import
+[I 2026-10-23 16:16:17.435 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-10-23 16:16:17.438 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-10-23 16:16:17.441 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-10-23 16:16:17.441 ServerApp] jupyterlab_jupytext | extension was successfully linked.
+[I 2026-10-23 16:16:17.443 ServerApp] notebook | extension was successfully linked.
+[I 2026-10-23 16:16:18.065 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-10-23 16:16:18.088 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-10-23 16:16:18.090 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-10-23 16:16:18.090 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-10-23 16:16:18.105 LabApp] JupyterLab extension loaded from /home/tasin/anaconda3/envs/ai/lib/python3.14/site-packages/jupyterlab
+[I 2026-10-23 16:16:18.105 LabApp] JupyterLab application directory is /home/tasin/anaconda3/envs/ai/share/jupyter/lab
+[I 2026-10-23 16:16:18.105 LabApp] Extension Manager is 'pypi'.
+[I 2026-10-23 16:16:18.236 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-10-23 16:16:18.236 ServerApp] [Jupytext Server Extension] Deriving an AsyncTextFileContentsManager from AsyncLargeFileManager
+[I 2026-10-23 16:16:18.237 ServerApp] jupyterlab_jupytext | extension was successfully loaded.
+[I 2026-10-23 16:16:18.239 ServerApp] notebook | extension was successfully loaded.
+[I 2026-10-23 16:16:18.239 ServerApp] Serving notebooks from local directory: /home/tasin/Downloads/chemistry
+[I 2026-10-23 16:16:18.239 ServerApp] Jupyter Server 2.17.0 is running at:
+[I 2026-10-23 16:16:18.239 ServerApp] http://localhost:8888/tree?token=7adb0c84eba88dc1bf347f2f5ad8c485336171fc540e5d73
+[I 2026-10-23 16:16:18.239 ServerApp]     http://127.0.0.1:8888/tree?token=7adb0c84eba88dc1bf347f2f5ad8c485336171fc540e5d73
+[I 2026-10-23 16:16:18.239 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-10-23 16:16:18.281 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:/home/tasin/.local/share/jupyter/runtime/jpserver-10502-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/tree?token=7adb0c84eba88dc1bf347f2f5ad8c485336171fc540e5d73
+        http://127.0.0.1:8888/tree?token=7adb0c84eba88dc1bf347f2f5ad8c485336171fc540e5d73
+[I 2026-10-23 16:16:18.312 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2026-10-23 16:16:26.273 ServerApp] Kernel started: 708c7913-d317-4bf6-812c-25be70e8daef
+[I 2026-10-23 16:16:27.050 ServerApp] Adapting from protocol version 5.3 (kernel 708c7913-d317-4bf6-812c-25be70e8daef) to 5.4 (client).
+[I 2026-10-23 16:16:27.050 ServerApp] Connecting to kernel 708c7913-d317-4bf6-812c-25be70e8daef.
+[W 2026-10-23 16:16:27.051 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2026-10-23 16:16:27.062 ServerApp] Adapting from protocol version 5.3 (kernel 708c7913-d317-4bf6-812c-25be70e8daef) to 5.4 (client).
+[I 2026-10-23 16:16:27.063 ServerApp] Connecting to kernel 708c7913-d317-4bf6-812c-25be70e8daef.
+[I 2026-10-23 16:16:27.074 ServerApp] Adapting from protocol version 5.3 (kernel 708c7913-d317-4bf6-812c-25be70e8daef) to 5.4 (client).
+[I 2026-10-23 16:16:27.074 ServerApp] Connecting to kernel 708c7913-d317-4bf6-812c-25be70e8daef.
+[I 2026-10-23 16:16:31.494 ServerApp] Adapting from protocol version 5.3 (kernel 708c7913-d317-4bf6-812c-25be70e8daef) to 5.4 (client).
+[I 2026-10-23 16:16:31.494 ServerApp] Connecting to kernel 708c7913-d317-4bf6-812c-25be70e8daef.
+
+
+
+[I 2026-10-23 16:18:26.497 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:18:26.498 ServerApp] Saving casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:18:43.220 ServerApp] Kernel interrupted: 708c7913-d317-4bf6-812c-25be70e8daef
+[I 2026-10-23 16:18:44.377 ServerApp] Kernel interrupted: 708c7913-d317-4bf6-812c-25be70e8daef
+[I 2026-10-23 16:18:44.538 ServerApp] Kernel interrupted: 708c7913-d317-4bf6-812c-25be70e8daef
+[I 2026-10-23 16:18:44.674 ServerApp] Kernel interrupted: 708c7913-d317-4bf6-812c-25be70e8daef
+[I 2026-10-23 16:18:54.688 ServerApp] Kernel restarted: 708c7913-d317-4bf6-812c-25be70e8daef
+[I 2026-10-23 16:18:54.690 ServerApp] Starting buffering for 708c7913-d317-4bf6-812c-25be70e8daef:b8996c15-a321-4609-87d9-bed5de727c1d
+[I 2026-10-23 16:18:54.692 ServerApp] Adapting from protocol version 5.3 (kernel 708c7913-d317-4bf6-812c-25be70e8daef) to 5.4 (client).
+[I 2026-10-23 16:18:54.692 ServerApp] Connecting to kernel 708c7913-d317-4bf6-812c-25be70e8daef.
+[I 2026-10-23 16:18:54.692 ServerApp] Restoring connection for 708c7913-d317-4bf6-812c-25be70e8daef:b8996c15-a321-4609-87d9-bed5de727c1d
+[I 2026-10-23 16:20:26.683 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:20:26.684 ServerApp] Saving casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:21:30.847 ServerApp] Kernel interrupted: 708c7913-d317-4bf6-812c-25be70e8daef
+[I 2026-10-23 16:21:38.045 ServerApp] Kernel restarted: 708c7913-d317-4bf6-812c-25be70e8daef
+[I 2026-10-23 16:21:38.047 ServerApp] Starting buffering for 708c7913-d317-4bf6-812c-25be70e8daef:b8996c15-a321-4609-87d9-bed5de727c1d
+[I 2026-10-23 16:21:38.048 ServerApp] Adapting from protocol version 5.3 (kernel 708c7913-d317-4bf6-812c-25be70e8daef) to 5.4 (client).
+[I 2026-10-23 16:21:38.049 ServerApp] Connecting to kernel 708c7913-d317-4bf6-812c-25be70e8daef.
+[I 2026-10-23 16:21:38.049 ServerApp] Restoring connection for 708c7913-d317-4bf6-812c-25be70e8daef:b8996c15-a321-4609-87d9-bed5de727c1d
+[I 2026-10-23 16:22:26.817 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:22:26.817 ServerApp] Saving casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:24:21.646 ServerApp] Kernel restarted: 708c7913-d317-4bf6-812c-25be70e8daef
+[I 2026-10-23 16:24:21.648 ServerApp] Starting buffering for 708c7913-d317-4bf6-812c-25be70e8daef:b8996c15-a321-4609-87d9-bed5de727c1d
+[I 2026-10-23 16:24:21.650 ServerApp] Adapting from protocol version 5.3 (kernel 708c7913-d317-4bf6-812c-25be70e8daef) to 5.4 (client).
+[I 2026-10-23 16:24:21.651 ServerApp] Connecting to kernel 708c7913-d317-4bf6-812c-25be70e8daef.
+[I 2026-10-23 16:24:21.651 ServerApp] Restoring connection for 708c7913-d317-4bf6-812c-25be70e8daef:b8996c15-a321-4609-87d9-bed5de727c1d
+[I 2026-10-23 16:24:27.496 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:24:27.497 ServerApp] Saving casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:25:53.789 ServerApp] Kernel restarted: 708c7913-d317-4bf6-812c-25be70e8daef
+[I 2026-10-23 16:25:53.791 ServerApp] Starting buffering for 708c7913-d317-4bf6-812c-25be70e8daef:b8996c15-a321-4609-87d9-bed5de727c1d
+[I 2026-10-23 16:25:53.792 ServerApp] Adapting from protocol version 5.3 (kernel 708c7913-d317-4bf6-812c-25be70e8daef) to 5.4 (client).
+[I 2026-10-23 16:25:53.792 ServerApp] Connecting to kernel 708c7913-d317-4bf6-812c-25be70e8daef.
+[I 2026-10-23 16:25:53.792 ServerApp] Restoring connection for 708c7913-d317-4bf6-812c-25be70e8daef:b8996c15-a321-4609-87d9-bed5de727c1d
+[I 2026-10-23 16:26:28.497 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:26:28.497 ServerApp] Saving casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:27:49.787 ServerApp] Kernel restarted: 708c7913-d317-4bf6-812c-25be70e8daef
+[I 2026-10-23 16:27:49.788 ServerApp] Starting buffering for 708c7913-d317-4bf6-812c-25be70e8daef:b8996c15-a321-4609-87d9-bed5de727c1d
+[I 2026-10-23 16:27:49.790 ServerApp] Adapting from protocol version 5.3 (kernel 708c7913-d317-4bf6-812c-25be70e8daef) to 5.4 (client).
+[I 2026-10-23 16:27:49.790 ServerApp] Connecting to kernel 708c7913-d317-4bf6-812c-25be70e8daef.
+[I 2026-10-23 16:27:49.790 ServerApp] Restoring connection for 708c7913-d317-4bf6-812c-25be70e8daef:b8996c15-a321-4609-87d9-bed5de727c1d
+[I 2026-10-23 16:28:28.685 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:28:28.685 ServerApp] Saving casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:30:28.833 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:30:28.834 ServerApp] Saving casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:32:29.496 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:32:29.496 ServerApp] Saving casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:32:44.862 ServerApp] Kernel interrupted: 708c7913-d317-4bf6-812c-25be70e8daef
+[I 2026-10-23 16:32:48.223 ServerApp] Kernel restarted: 708c7913-d317-4bf6-812c-25be70e8daef
+[I 2026-10-23 16:32:48.225 ServerApp] Starting buffering for 708c7913-d317-4bf6-812c-25be70e8daef:b8996c15-a321-4609-87d9-bed5de727c1d
+[I 2026-10-23 16:32:48.228 ServerApp] Adapting from protocol version 5.3 (kernel 708c7913-d317-4bf6-812c-25be70e8daef) to 5.4 (client).
+[I 2026-10-23 16:32:48.229 ServerApp] Connecting to kernel 708c7913-d317-4bf6-812c-25be70e8daef.
+[I 2026-10-23 16:32:48.229 ServerApp] Restoring connection for 708c7913-d317-4bf6-812c-25be70e8daef:b8996c15-a321-4609-87d9-bed5de727c1d
+[I 2026-10-23 16:34:30.510 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:34:30.510 ServerApp] Saving casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-23 16:34:53.273 ServerApp] Starting buffering for 708c7913-d317-4bf6-812c-25be70e8daef:b8996c15-a321-4609-87d9-bed5de727c1d
+[I 2026-10-25 14:26:01.626 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-10-25 14:26:03.423 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-10-25 14:26:03.426 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-10-25 14:26:03.428 ServerApp] notebook | extension was successfully linked.
+[I 2026-10-25 14:26:03.587 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-10-25 14:26:03.598 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-10-25 14:26:03.599 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-10-25 14:26:03.599 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-10-25 14:26:03.689 LabApp] JupyterLab extension loaded from /home/tasin/anaconda3/envs/ai_12/lib/python3.12/site-packages/jupyterlab
+[I 2026-10-25 14:26:03.690 LabApp] JupyterLab application directory is /home/tasin/anaconda3/envs/ai_12/share/jupyter/lab
+[I 2026-10-25 14:26:03.690 LabApp] Extension Manager is 'pypi'.
+[I 2026-10-25 14:26:03.708 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-10-25 14:26:03.710 ServerApp] notebook | extension was successfully loaded.
+[I 2026-10-25 14:26:03.710 ServerApp] The port 8888 is already in use, trying another port.
+[I 2026-10-25 14:26:03.710 ServerApp] Serving notebooks from local directory: /home/tasin/Downloads/chemistry
+[I 2026-10-25 14:26:03.710 ServerApp] Jupyter Server 2.21.1 is running at:
+[I 2026-10-25 14:26:03.710 ServerApp] http://localhost:8889/tree?token=684b91ae318ce5639ce5841db437047e8fd7605fa59095fa
+[I 2026-10-25 14:26:03.711 ServerApp]     http://127.0.0.1:8889/tree?token=684b91ae318ce5639ce5841db437047e8fd7605fa59095fa
+[I 2026-10-25 14:26:03.711 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-10-25 14:26:04.173 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/tasin/.local/share/jupyter/runtime/jpserver-35657-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/tree?token=684b91ae318ce5639ce5841db437047e8fd7605fa59095fa
+        http://127.0.0.1:8889/tree?token=684b91ae318ce5639ce5841db437047e8fd7605fa59095fa
+[I 2026-10-25 14:26:04.189 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2026-10-25 14:26:18.230 ServerApp] Kernel started: 3cf3fb05-4a7c-4859-9611-a1eac284bf1a
+[I 2026-10-25 14:26:20.666 ServerApp] Adapting from protocol version 5.3 (kernel 3cf3fb05-4a7c-4859-9611-a1eac284bf1a) to 5.4 (client).
+[I 2026-10-25 14:26:20.667 ServerApp] Connecting to kernel 3cf3fb05-4a7c-4859-9611-a1eac284bf1a.
+[W 2026-10-25 14:26:20.669 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2026-10-25 14:26:20.678 ServerApp] Adapting from protocol version 5.3 (kernel 3cf3fb05-4a7c-4859-9611-a1eac284bf1a) to 5.4 (client).
+[I 2026-10-25 14:26:20.679 ServerApp] Connecting to kernel 3cf3fb05-4a7c-4859-9611-a1eac284bf1a.
+[I 2026-10-25 14:26:20.690 ServerApp] Adapting from protocol version 5.3 (kernel 3cf3fb05-4a7c-4859-9611-a1eac284bf1a) to 5.4 (client).
+[I 2026-10-25 14:26:20.690 ServerApp] Connecting to kernel 3cf3fb05-4a7c-4859-9611-a1eac284bf1a.
+[I 2026-10-25 14:26:23.727 ServerApp] Adapting from protocol version 5.3 (kernel 3cf3fb05-4a7c-4859-9611-a1eac284bf1a) to 5.4 (client).
+[I 2026-10-25 14:26:23.727 ServerApp] Connecting to kernel 3cf3fb05-4a7c-4859-9611-a1eac284bf1a.
+[I 2026-10-25 14:26:35.928 ServerApp] Kernel started: 581ae9dc-b895-44e3-a6dc-d8ec9cb9b71b
+[I 2026-10-25 14:26:35.930 ServerApp] Kernel shutdown: 3cf3fb05-4a7c-4859-9611-a1eac284bf1a
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-25 14:26:36.458 ServerApp] Adapting from protocol version 5.3 (kernel 581ae9dc-b895-44e3-a6dc-d8ec9cb9b71b) to 5.4 (client).
+[I 2026-10-25 14:26:36.458 ServerApp] Connecting to kernel 581ae9dc-b895-44e3-a6dc-d8ec9cb9b71b.
+[I 2026-10-25 14:26:36.470 ServerApp] Adapting from protocol version 5.3 (kernel 581ae9dc-b895-44e3-a6dc-d8ec9cb9b71b) to 5.4 (client).
+[I 2026-10-25 14:26:36.470 ServerApp] Connecting to kernel 581ae9dc-b895-44e3-a6dc-d8ec9cb9b71b.
+[I 2026-10-25 14:27:57.230 ServerApp] Adapting from protocol version 5.3 (kernel 581ae9dc-b895-44e3-a6dc-d8ec9cb9b71b) to 5.4 (client).
+[I 2026-10-25 14:27:57.231 ServerApp] Connecting to kernel 581ae9dc-b895-44e3-a6dc-d8ec9cb9b71b.
+[I 2026-10-25 14:27:57.243 ServerApp] Adapting from protocol version 5.3 (kernel 581ae9dc-b895-44e3-a6dc-d8ec9cb9b71b) to 5.4 (client).
+[I 2026-10-25 14:27:57.243 ServerApp] Connecting to kernel 581ae9dc-b895-44e3-a6dc-d8ec9cb9b71b.
+[I 2026-10-25 14:28:17.812 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-25 15:09:35.790 ServerApp] Starting buffering for 581ae9dc-b895-44e3-a6dc-d8ec9cb9b71b:cd8ab889-c15a-412e-bf99-4df3db919588
+[I 2026-10-25 15:59:25.811 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-10-25 15:59:25.813 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-10-25 15:59:25.816 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-10-25 15:59:25.818 ServerApp] notebook | extension was successfully linked.
+[I 2026-10-25 15:59:26.229 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-10-25 15:59:26.241 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-10-25 15:59:26.242 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-10-25 15:59:26.243 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-10-25 15:59:26.244 LabApp] JupyterLab extension loaded from /home/tasin/anaconda3/envs/ai_12/lib/python3.12/site-packages/jupyterlab
+[I 2026-10-25 15:59:26.244 LabApp] JupyterLab application directory is /home/tasin/anaconda3/envs/ai_12/share/jupyter/lab
+[I 2026-10-25 15:59:26.244 LabApp] Extension Manager is 'pypi'.
+[I 2026-10-25 15:59:26.264 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-10-25 15:59:26.266 ServerApp] notebook | extension was successfully loaded.
+[I 2026-10-25 15:59:26.266 ServerApp] Serving notebooks from local directory: /home/tasin/Downloads/chemistry
+[I 2026-10-25 15:59:26.266 ServerApp] Jupyter Server 2.21.1 is running at:
+[I 2026-10-25 15:59:26.266 ServerApp] http://localhost:8888/tree?token=862410f0e4e8421f23bc1a5f84af42dec39506340109de18
+[I 2026-10-25 15:59:26.266 ServerApp]     http://127.0.0.1:8888/tree?token=862410f0e4e8421f23bc1a5f84af42dec39506340109de18
+[I 2026-10-25 15:59:26.266 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-10-25 15:59:26.345 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/tasin/.local/share/jupyter/runtime/jpserver-116198-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/tree?token=862410f0e4e8421f23bc1a5f84af42dec39506340109de18
+        http://127.0.0.1:8888/tree?token=862410f0e4e8421f23bc1a5f84af42dec39506340109de18
+[I 2026-10-25 15:59:26.358 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[E 2026-10-25 15:59:29.655 ServerApp] Error unpacking user from cookie: 'avatar_url'
+[E 2026-10-25 15:59:29.656 ServerApp] Error unpacking user from cookie: 'avatar_url'
+[I 2026-10-25 15:59:43.092 ServerApp] Kernel started: 121fc6a4-1856-4895-b301-d05248a136c4
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-25 15:59:43.446 ServerApp] Adapting from protocol version 5.3 (kernel 121fc6a4-1856-4895-b301-d05248a136c4) to 5.4 (client).
+[I 2026-10-25 15:59:43.447 ServerApp] Connecting to kernel 121fc6a4-1856-4895-b301-d05248a136c4.
+[W 2026-10-25 15:59:43.448 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2026-10-25 15:59:43.459 ServerApp] Adapting from protocol version 5.3 (kernel 121fc6a4-1856-4895-b301-d05248a136c4) to 5.4 (client).
+[I 2026-10-25 15:59:43.459 ServerApp] Connecting to kernel 121fc6a4-1856-4895-b301-d05248a136c4.
+[I 2026-10-25 15:59:43.471 ServerApp] Adapting from protocol version 5.3 (kernel 121fc6a4-1856-4895-b301-d05248a136c4) to 5.4 (client).
+[I 2026-10-25 15:59:43.472 ServerApp] Connecting to kernel 121fc6a4-1856-4895-b301-d05248a136c4.
+[I 2026-10-25 16:05:42.829 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-25 16:13:43.728 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+
+
+
+[I 2026-10-25 16:15:43.960 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-25 16:15:47.457 ServerApp] Kernel restarted: 121fc6a4-1856-4895-b301-d05248a136c4
+[I 2026-10-25 16:15:47.459 ServerApp] Starting buffering for 121fc6a4-1856-4895-b301-d05248a136c4:8e277297-372f-4cbd-8bff-b731188cb5c6
+[I 2026-10-25 16:15:47.461 ServerApp] Adapting from protocol version 5.3 (kernel 121fc6a4-1856-4895-b301-d05248a136c4) to 5.4 (client).
+[I 2026-10-25 16:15:47.461 ServerApp] Connecting to kernel 121fc6a4-1856-4895-b301-d05248a136c4.
+[I 2026-10-25 16:15:47.461 ServerApp] Restoring connection for 121fc6a4-1856-4895-b301-d05248a136c4:8e277297-372f-4cbd-8bff-b731188cb5c6
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-25 16:15:48.786 ServerApp] Kernel restarted: 121fc6a4-1856-4895-b301-d05248a136c4
+[I 2026-10-25 16:15:48.787 ServerApp] Starting buffering for 121fc6a4-1856-4895-b301-d05248a136c4:8e277297-372f-4cbd-8bff-b731188cb5c6
+[I 2026-10-25 16:15:48.789 ServerApp] Adapting from protocol version 5.3 (kernel 121fc6a4-1856-4895-b301-d05248a136c4) to 5.4 (client).
+[I 2026-10-25 16:15:48.789 ServerApp] Connecting to kernel 121fc6a4-1856-4895-b301-d05248a136c4.
+[I 2026-10-25 16:15:48.789 ServerApp] Restoring connection for 121fc6a4-1856-4895-b301-d05248a136c4:8e277297-372f-4cbd-8bff-b731188cb5c6
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-25 16:17:44.101 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-25 16:18:04.216 ServerApp] Adapting from protocol version 5.3 (kernel 121fc6a4-1856-4895-b301-d05248a136c4) to 5.4 (client).
+[I 2026-10-25 16:18:04.217 ServerApp] Connecting to kernel 121fc6a4-1856-4895-b301-d05248a136c4.
+[I 2026-10-25 16:19:44.731 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-25 16:20:04.641 ServerApp] Kernel restarted: 121fc6a4-1856-4895-b301-d05248a136c4
+[I 2026-10-25 16:20:04.643 ServerApp] Starting buffering for 121fc6a4-1856-4895-b301-d05248a136c4:8e277297-372f-4cbd-8bff-b731188cb5c6
+[I 2026-10-25 16:20:04.645 ServerApp] Adapting from protocol version 5.3 (kernel 121fc6a4-1856-4895-b301-d05248a136c4) to 5.4 (client).
+[I 2026-10-25 16:20:04.645 ServerApp] Connecting to kernel 121fc6a4-1856-4895-b301-d05248a136c4.
+[I 2026-10-25 16:20:04.645 ServerApp] Restoring connection for 121fc6a4-1856-4895-b301-d05248a136c4:8e277297-372f-4cbd-8bff-b731188cb5c6
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-25 16:20:06.427 ServerApp] Kernel restarted: 121fc6a4-1856-4895-b301-d05248a136c4
+[I 2026-10-25 16:20:06.428 ServerApp] Starting buffering for 121fc6a4-1856-4895-b301-d05248a136c4:8e277297-372f-4cbd-8bff-b731188cb5c6
+[I 2026-10-25 16:20:06.430 ServerApp] Adapting from protocol version 5.3 (kernel 121fc6a4-1856-4895-b301-d05248a136c4) to 5.4 (client).
+[I 2026-10-25 16:20:06.430 ServerApp] Connecting to kernel 121fc6a4-1856-4895-b301-d05248a136c4.
+[I 2026-10-25 16:20:06.430 ServerApp] Restoring connection for 121fc6a4-1856-4895-b301-d05248a136c4:8e277297-372f-4cbd-8bff-b731188cb5c6
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-25 16:20:17.343 ServerApp] Kernel restarted: 121fc6a4-1856-4895-b301-d05248a136c4
+[I 2026-10-25 16:20:17.345 ServerApp] Starting buffering for 121fc6a4-1856-4895-b301-d05248a136c4:8e277297-372f-4cbd-8bff-b731188cb5c6
+[I 2026-10-25 16:20:17.347 ServerApp] Adapting from protocol version 5.3 (kernel 121fc6a4-1856-4895-b301-d05248a136c4) to 5.4 (client).
+[I 2026-10-25 16:20:17.347 ServerApp] Connecting to kernel 121fc6a4-1856-4895-b301-d05248a136c4.
+[I 2026-10-25 16:20:17.347 ServerApp] Restoring connection for 121fc6a4-1856-4895-b301-d05248a136c4:8e277297-372f-4cbd-8bff-b731188cb5c6
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-25 16:21:44.895 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-25 16:21:46.521 ServerApp] Kernel restarted: 121fc6a4-1856-4895-b301-d05248a136c4
+[I 2026-10-25 16:21:46.523 ServerApp] Starting buffering for 121fc6a4-1856-4895-b301-d05248a136c4:8e277297-372f-4cbd-8bff-b731188cb5c6
+[I 2026-10-25 16:21:46.524 ServerApp] Adapting from protocol version 5.3 (kernel 121fc6a4-1856-4895-b301-d05248a136c4) to 5.4 (client).
+[I 2026-10-25 16:21:46.525 ServerApp] Connecting to kernel 121fc6a4-1856-4895-b301-d05248a136c4.
+[I 2026-10-25 16:21:46.525 ServerApp] Restoring connection for 121fc6a4-1856-4895-b301-d05248a136c4:8e277297-372f-4cbd-8bff-b731188cb5c6
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-25 16:23:45.040 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-25 16:25:45.251 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-25 16:25:47.731 ServerApp] Kernel restarted: 121fc6a4-1856-4895-b301-d05248a136c4
+[I 2026-10-25 16:25:47.733 ServerApp] Starting buffering for 121fc6a4-1856-4895-b301-d05248a136c4:8e277297-372f-4cbd-8bff-b731188cb5c6
+[I 2026-10-25 16:25:47.735 ServerApp] Adapting from protocol version 5.3 (kernel 121fc6a4-1856-4895-b301-d05248a136c4) to 5.4 (client).
+[I 2026-10-25 16:25:47.735 ServerApp] Connecting to kernel 121fc6a4-1856-4895-b301-d05248a136c4.
+[I 2026-10-25 16:25:47.735 ServerApp] Restoring connection for 121fc6a4-1856-4895-b301-d05248a136c4:8e277297-372f-4cbd-8bff-b731188cb5c6
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-25 16:27:46.139 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-25 16:29:46.296 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-25 16:31:46.434 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+
+
+
+[I 2026-10-25 16:33:46.580 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-25 16:35:46.720 ServerApp] Saving file at /casmi-denovo-tutorial-notebook.ipynb
+[I 2026-10-25 16:38:31.632 ServerApp] 302 GET / (@127.0.0.1) 0.38ms
+[I 2026-10-25 16:38:32.280 ServerApp] Adapting from protocol version 5.3 (kernel 121fc6a4-1856-4895-b301-d05248a136c4) to 5.4 (client).
+[I 2026-10-25 16:38:32.280 ServerApp] Connecting to kernel 121fc6a4-1856-4895-b301-d05248a136c4.
+[I 2026-10-25 16:39:05.851 ServerApp] Kernel interrupted: 121fc6a4-1856-4895-b301-d05248a136c4
+[I 2026-10-25 16:39:09.606 ServerApp] Starting buffering for 121fc6a4-1856-4895-b301-d05248a136c4:8e277297-372f-4cbd-8bff-b731188cb5c6
