@@ -268,14 +268,26 @@ class DeNovoLightningModel(L.LightningModule):
     def __init__(self, kwargs):
         super().__init__()
         self.peak_embedder = PeakEmbedder(**kwargs['peak_embedder'])
+        self.metadata_embedder = MetadataEmbedder(**kwargs['metadata_embedder'])
         self.spectrum_encoder = SpectrumEncoder(**kwargs['spectrum_encoder'])
         self.smiles_decoder = LlamaSmilesDecoder(**kwargs['smiles_decoder'])
         self.optimizer_config = kwargs['optimizer']
 
     def forward(self, batch, stage, return_encoder_states=False):
+        peak_embeds = self.peak_embedder(
+            batch["mzs"],
+            batch["intensities"]
+        )
+
+        metadata_embeds = self.metadata_embedder(
+            batch["metadata"]
+        )
+
+        peak_embeds += metadata_embeds.unsqueeze(1)
+
         encoded_spectra = self.spectrum_encoder(
-            self.peak_embedder(batch['mzs'], batch['intensities']),
-            batch['attention_mask']
+            peak_embeds,
+            batch["attention_mask"]
         )
         outputs = {}
         if stage in ('fit', 'validate'):
